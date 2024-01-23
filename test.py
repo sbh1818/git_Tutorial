@@ -1,4 +1,4 @@
-def cube(n):
-    return n**3
+def fourth_power(n):
+    return n**4
 
-print("square is",cube(5))
+print("square is",fourth_power(5))
